@@ -5,7 +5,6 @@ We should take an minimilistic approach to make our website look calm and imply 
 Tabs:
 - Home(About Us): Contains motto and other info.
 - Recent Events
-- Appointments
 - Stories ( will have articles related to depression and mental health)
 - Contact us
 
