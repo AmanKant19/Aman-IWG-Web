@@ -6,7 +6,7 @@ Tabs:
 - Home(About Us): Contains motto and other info.
 - Recent Events
 - Stories ( will have articles related to depression and mental health)
-- Contact us
+- Contact us.
 
 
 
