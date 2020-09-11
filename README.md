@@ -7,6 +7,7 @@ Tabs:
 - Recent Events
 - Stories ( will have articles related to depression and mental health)
 - Contact us.
+- use angular
 
 
 
